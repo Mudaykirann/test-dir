@@ -1,0 +1,261 @@
+"https://www.youtube.com/watch?v=4XTsAAHW_Tc&t=49s"
+
+Core Java + Backend + DSA ---> By Naveen Sir
+
+
+00:00:00 - Introduction to Java Course
+00:05:04 - Java Development Kit setup
+00:13:21 - First code in Java
+00:24:35 - How Java Works
+00:36:34 - Variables in Java
+00:48:11 - Data types in Java
+01:00:28 - Literal
+01:04:49 - Type conversion
+01:17:20 - Assignment Operators
+01:27:32 - Relational Operators 
+01:35:35 - Logical Operators
+01:46:47 - If Else
+01:59:45 - If Else if
+02:05:18 - Ternary
+02:09:51 - Switch Statement
+02:17:50 - Need For Loop
+02:21:12 - While Loop
+02:33:35 - Do While Loop
+02:36:48 - For Loop
+02:50:06 - Which Loop To Use
+02:51:48 - Class And Object Theory
+02:57:30 - Class and Object Practical
+03:13:03 - JDK JRE JVM
+03:18:22 - Methods
+03:29:44 - Method Overloading
+03:35:41 - Stack And Heap
+03:48:12 - Need of an Array
+03:52:01 - Creation of Array
+03:59:28 - Multi Dimensional Array
+04:12:30 - Jagged and 3D Array
+04:18:08 - Drawbacks of Array
+04:20:54 - Array of Objects
+04:29:42 - Enhanced for loop
+04:35:07 - What is String
+04:42:24 - Mutable vs Immutable String
+04:48:43 - StringBuffer and StringBuilder
+04:54:23 - Static Variable
+05:01:26 - Static Block
+05:08:43 - Static Method
+05:13:25 - Encapsulation
+05:25:04 - Getters and Setters
+05:27:55 - This Keyword
+05:37:36 - Constructor
+05:44:35 - Default vs Parameterized Constructor
+05:49:36 - This and Super Method
+06:01:42 - Naming Convention
+06:06:08 - Anonymous Object
+06:10:51 - Need of Inheritance
+06:17:06 - What is Inheritance
+06:25:50 - Single and Multilevel Inheritance
+06:29:41 - Multiple Inheritance
+06:36:16 - Method Overriding
+06:44:05 - Packages
+06:56:20 - Access Modifiers
+07:04:42 - Polymorphism
+07:08:31 - Dynamic Method Dispatch
+07:16:29 - Final Keyword
+07:22:43 - Object Class Equals, toString, hashCode
+07:34:41 - Upcasting and Downcasting
+07:41:17 - Abstract Keyword
+07:53:26 - Inner Class
+07:59:03 - Anonymous Inner Class
+08:04:11 - Abstract and Anonymous Inner Class
+
+08:07:22 - What is Interface
+08:15:18 - More on Interfaces
+08:18:40 - Need of Interface
+08:27:11 - What is Enum
+08:34:04 - Enum If and Switch
+08:37:59 - Enum Class
+08:45:45 - What is Annotation
+08:53:14 - Functional Interface
+08:56:43 - Lambda Expression
+09:02:51 - Lambda Expression with Return
+09:06:08 - Types of Interface
+
+09:10:41 - What is Exception
+09:15:57 - Exception Handling Using Try Catch
+09:21:58 - Try with Multiple Catch
+09:32:14 - Exception Hierarchy
+09:36:30 - Exception Throw Keyword
+09:42:05 - Custom Exception
+09:45:35 - Ducking Exception using Throws
+09:55:29 - User Input using BufferedReader and Scanner
+10:07:17 - Try with Resources
+
+10:15:25 - Threads
+10:20:37 - Multiple Threads
+10:31:58 - Thread Priority and Sleep
+10:39:20 - Runnable vs Thread
+10:47:45 - Race Condition
+11:00:15 - Thread States
+
+11:03:45 - Collection API
+11:08:30 - ArrayList
+11:20:23 - Set
+11:27:30 - Map
+11:37:32 - Comparator vs Comparable
+
+11:53:15 - Need of Stream API
+12:00:12 - forEach Method
+12:05:01 - Stream API
+12:14:09 - Map Filter Reduce Sorted
+
+13:13:08 - JUnit
+
+16:04:39 - DSA
+
+16:04:42 - DSA Intro
+16:11:50 - Abstract Data Type
+16:19:01 - Arrays
+16:26:53 - Time Complexity
+16:29:25 - Linear Search
+16:33:31 - Binary Search
+16:40:03 - Time Complexity
+16:41:48 - Time Complexity for Linear Search
+16:43:54 - Time Complexity for Binary Search
+16:47:55 - Linear Search & Binary Search
+16:49:00 - Code for Linear Search
+16:55:12 - Code for Binary Search (Using While Loop)
+17:03:46 - Code for Binary Search (Using Recursion)
+17:07:10 - Sorting Techniques
+17:07:53 - Sorting
+17:09:20 - Bubble Sort
+17:14:55 - Code for Bubble Sort
+17:23:05 - Selection Sort
+17:30:00 - Code for Selection Sort
+17:37:13 - Insertion Sort
+17:44:33 - Code for Insertion Sort
+17:57:26 - Quick Sort
+18:04:06 - Example for Quick Sort (Logic)
+18:18:45 - Example for Quick Sort (Code)
+18:25:44 - Merge Sort
+18:35:49 - Example for Merge Sort (Logic)
+18:41:55 - Example for Merge Sort (Code)
+
+18:53:18 - Linked List
+19:06:41 - Code for Linked List
+19:11:43 - Insert
+19:19:37 - Show
+19:27:10 - InsertAtStart
+19:30:12 - InsertAt
+19:38:44 - DeleteAt
+
+19:43:58 - Stack
+19:52:58 - Code for Stack (Fixed Size Array)
+19:54:15 - Push
+19:57:45 - Show
+19:58:35 - Pop
+20:01:10 - Peek
+20:02:50 - Size
+20:04:08 - IsEmpty
+20:09:42 - Code for Stack (Dynamic Size Array)
+
+20:22:41 - Queue
+20:27:28 - Code for Queue
+20:28:15 - Enqueue
+20:30:02 - Show
+20:32:13 - Dequeue
+20:42:23 - Size
+20:43:23 - IsEmpty
+20:44:16 - IsFull
+
+20:46:55 - Tree
+20:47:05 - Tree
+20:49:26 - Binary Tree
+20:55:06 - Binary Search Tree
+20:56:59 - Code for Binary Search Tree (Insert)
+20:57:56 - Insert
+21:06:01 - Tree Traversal (InOrder)
+21:11:07 - Tree Traversal (PreOrder)
+
+21:11:50 - Git
+
+23:12:20 - JDBC
+
+24:33:04 - Servlet and JSP
+
+24:33:14 - Servlet
+26:11:17 - JSP
+27:32:19 - JSTL
+
+30:29:58 - Hibernate
+
+30:29:58 - Introduction to Hibernate
+30:32:13 - Prerequisites for Hibernate
+30:34:48 - Hibernate Theory
+30:44:32 - Hibernate Practical
+30:56:29 - How to Add Hibernate Plugin in Eclipse
+30:58:06 - Configuration File
+31:05:21 - Working
+31:09:58 - Show SQL Property
+31:13:20 - Annotation
+31:18:07 - Fetch Data Using Hibernate
+31:22:39 - How to Use Embeddable Object
+31:30:31 - Mapping Relations Theory
+31:43:35 - Mapping Relations Practical
+
+33:49:37 - Rest API Web Service 
+33:23:20 - JPA
+
+36:24:17 - Spring Framework
+
+36:16:19 - Introduction to Spring
+36:24:20 - Spring
+36:26:16 - Spring Documentation
+36:29:09 - Prerequisites
+36:31:21 - Software Requirements
+36:33:48 - STS Setup
+36:39:19 - Dependency Injection in Spring
+36:44:56 - Creating Spring Starter Project
+36:50:07 - Dependency Injection in Spring Boot
+36:55:42 - Spring Boot Autowire
+36:59:30 - Bean Factory
+37:11:45 - Application Context
+37:14:27 - Spring Container
+37:20:34 - Singleton vs Prototype
+37:23:31 - Setter Injection
+37:32:11 - Constructor Injection
+37:36:18 - Autowire
+37:44:51 - Primary
+
+37:46:54 - Spring JDBC
+
+38:16:19 - Spring MVC 
+
+38:46:48 - Spring Boot MVC
+38:57:44 - @RequestParam
+39:00:37 - Model
+39:01:27 - ModelMap vs Model
+39:11:55 - @ModelAttribute as a Parameter
+39:14:51 - @ModelAttribute as a Method
+39:41:39 - Spring ORM Theory
+
+40:12:45 - Spring Data JPA
+
+40:41:13 - Rest API Using Spring Boot
+40:41:17 - REST
+41:17:32 - Project Using Spring Boot MVC
+41:18:09 - Java Project
+43:45:47 - Java Spring Boot MongoDB Full Project
+45:01:07 - Spring AOP
+
+45:21:59 - Spring Security
+
+45:34:18 - Spring Security -> Login
+45:38:17 - How to Create User and Password in Memory -> Configuration File
+45:44:51 - How to Fetch and Store User and Password in a DB  
+45:49:37 - Creating User Class
+45:50:42 - Creating Service (UserDetailService) and Setting Password Encoder
+45:55:42 - Creating UserDetails Implementation
+46:01:02 - Recap
+46:02:37 - BCrypt Password Encoder
+46:08:57 - Customize Login
+
+46:28:34 - Microservice
